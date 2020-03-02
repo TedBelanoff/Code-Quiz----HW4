@@ -1,0 +1,1 @@
+This is my submission for HW assignment #4 - JavaScript Quiz
